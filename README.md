@@ -24,7 +24,7 @@
 
 ## 專案
 ##### 【 行旅之境 】旅遊電商網站 (React)
-* [gitHub Pages](https://kayaribi.github.io/Realmof_Journeys/#/)
+* [gitHub Pages](https://kayaribi.github.io/Realm_of_Journeys/)
 * [gitHub Repo](https://github.com/kayaribi/Realm_of_Journeys)
 
 ##### 【 JO團趣 】揪團預約系統 (純切板 + JS)
